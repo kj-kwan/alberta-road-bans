@@ -16,3 +16,5 @@ The objective of this analysis is to determine statistically when certain roads 
 * Clean the data into a form in which statistical analyses may be conducted.
 * Analyze the data to determine the statistical characteristics of road ban effective dates in Alberta
 
+## Analysis
+See Alberta Road Bans Analysis for the resultant analysis
