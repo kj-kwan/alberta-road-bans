@@ -11,8 +11,8 @@ As these road bans are typically governed by municipalities and highly dependent
 The objective of this analysis is to determine statistically when certain roads are most likely going to have road bans put on and off. With a statistical description, the window in which operations must cease or be significantly impacted can be quantified and operations and projects can be planned accordingly. Risk of road related delays can be communicated with data backing a particular decision.
 
 ## Approach
-Script to scrape the road ban reports from the Alberta Transportation site. (see https://open.alberta.ca/publications/road-ban-list for more.)
-Parse the pdf reports into a format that can be manipulated.
-Clean the data into a form in which statistical analyses may be conducted.
-Analyze the data to determine the statistical characteristics of road ban effective dates in Alberta
+* Script to scrape the road ban reports from the Alberta Transportation site. (see https://open.alberta.ca/publications/road-ban-list for more.)
+* Parse the pdf reports into a format that can be manipulated.
+* Clean the data into a form in which statistical analyses may be conducted.
+* Analyze the data to determine the statistical characteristics of road ban effective dates in Alberta
 
